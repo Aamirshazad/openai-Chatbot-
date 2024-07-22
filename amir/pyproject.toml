@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "amir"
+version = "0.1.0"
+description = ""
+authors = ["Aamirshazad <amiralicomsats3@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
